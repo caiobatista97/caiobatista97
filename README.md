@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning software engineering through online courses and projects
 - 🌱 I’m currently learning "Full Stack Web Developer" with IBM via Coursera
 - 💞️ I’m looking to collaborate on anything, really
-- 📫 How to reach me caiobatista97@gmail.com or 9046554215
+- 📫 How to reach me caiobatista97@gmail.com
 
 <!---
 caiobatista97/caiobatista97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
