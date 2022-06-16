@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @caiobatista97
 - 👀 I’m interested in learning software engineering through online courses and projects
-- 🌱 I’m currently learning "Full Stack Web Developer" with IBM via Coursera
+- 🌱 I’m currently learning "Full Stack Software Developer" with IBM via Coursera
 - 💞️ I’m looking to collaborate on anything, really
 - 📫 How to reach me caiobatista97@gmail.com
 
